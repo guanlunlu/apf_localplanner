@@ -1,0 +1,6 @@
+image: eueu_basic_rotate.png
+resolution: 0.01 # meters / pixel
+origin: [-0.02, -0.02, 0.0]
+negate: 0
+occupied_thresh: 0.65 # greater
+free_thresh: 0.2 # smaller
